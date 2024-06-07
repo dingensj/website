@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gallery>
+
+   <album title="Portfolio" description="Architectural Projects by Jed Dingens" lgpath="gallery/album1/lg/">
+
+      		<img src="Honda1.jpg" caption="A modern motorsports dealership in Owosso, Michigan." title="Michigan Honda" />
+
+		<img src="Honda2.jpg" caption="A modern motorsports dealership in Owosso, Michigan." title="Michigan Honda" />
+  
+		<img src="SAC1.jpg" caption="Unique integration of existing structure with addition and river frontage." title="Shiawassee Arts Council" />
+
+		<img src="SAC2.jpg" caption="Unique integration of existing structure with addition and river frontage." title="Shiawassee Arts Council" />
+		
+		<img src="car.jpg" />
+  
+		<img src="cl1.jpg" />
+
+		<img src="cl2.jpg" />
+		
+		<img src="cmh1.jpg" />
+  
+		<img src="cmh2.jpg" />
+
+		<img src="dental1.jpg" />
+		
+		<img src="dental2.jpg" />
+  
+		<img src="mh1.JPG" />
+
+		<img src="mh2.jpg" />
+		
+		<img src="mh3.JPG" />
+  
+		<img src="mmo.jpg" />
+
+		<img src="oga1.jpg" />
+		
+		<img src="oga2.jpg" />
+  
+		<img src="print3g.jpg" />
+
+		<img src="sl1.JPG" />
+		
+		<img src="sl2.JPG" />
+		
+		<img src="sl3.jpg" />
+  
+		<img src="sl4.JPG" />
+
+		<img src="umc.jpg" />
+		
+		<img src="vl1.JPG" />
+  
+		<img src="vl2.jpg" />
+   
+	</album>
+
+</gallery>
